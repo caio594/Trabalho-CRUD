@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "id": "552c",
+      "email": "caioandre@gmail.com",
+      "nome": "Caio",
+      "sobrenome": "Santos",
+      "celular": "(55)99935-9753",
+      "cidade": "São Luiz Gonzaga",
+      "rua": "Rua Da folha",
+      "cpf": "796.321.949-89"
+    },
+    {
+      "id": "6aa1",
+      "email": "enzoliscano@gmail.com",
+      "nome": " enzo ",
+      "sobrenome": "gay",
+      "celular": "969586979",
+      "cidade": "São Luiz Gonzaga",
+      "rua": "rua dos boiola",
+      "cpf": "456.123.789-45"
+    },
+    {
+      "id": "fe7d",
+      "email": "matheushenrihc@gmail.com",
+      "nome": "MATHEUS",
+      "sobrenome": "HENRICH",
+      "celular": "(55)99725-4578",
+      "cidade": "São Luiz Gonzaga",
+      "rua": "Rua dos Nóia",
+      "cpf": "456.123.789-45"
+    }
+  ]
+}
